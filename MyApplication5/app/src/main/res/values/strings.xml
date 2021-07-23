@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rocket_list">Rocket List</string>
+
+    <string name="went_wrong">Something went wrong</string>
+    <string name="server_error">Server error please try again</string>
+
+    <string name="err_internet">Please check your internet connection!</string>
+    <string name="err_request_timeout">Request Timeout!</string>
+    <string name="err_common">Please try again!</string>
+
+    <string name="please_wait">Please wait....</string>
+    <string name="name">Name:</string>
+    <string name="country">Country:</string>
+    <string name="status">Active status:</string>
+    <string name="engiens_count">Engines Count:</string>
+    <string name="description">Description:</string>
+    <string name="link">Wikipedia link:</string>
+    <string name="height">Height and diameter in feet/inches</string>
+    <string name="rate_percent">Success rate percent:</string>
+    <string name="cost">Cost per launch:</string>
+</resources>
